@@ -21,6 +21,7 @@ We then visualized the results using bar charts with `matplotlib`.
 ##  Files Included
 - `sales_data.db` – SQLite database containing a sales table
 - `sales_data script.ipynb` – Jupyter Notebook with all code and charts
+- `sales_data script.pdf` - PDF version of the notebook (for easy offline or printable viewing)
 - `sales_revenue by product.png` – Revenue bar chart
 - `sales_quantity sold by product.png` – Quantity sold bar chart
 - `README.md` – This documentation file
